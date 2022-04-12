@@ -1,1 +1,2 @@
 This is file 2 on branch1.
+Added to main
